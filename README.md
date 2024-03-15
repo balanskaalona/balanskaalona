@@ -1,4 +1,4 @@
-### alonabalanska
+### - **Discord**: [alonabalanska](https://discord.com/users/alonabalanska)
 
 <!--
 **balanskaalona/balanskaalona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
